@@ -1,6 +1,6 @@
 
-旧BorCoin地址： BorCoin ERC20
-新波刃币BorCoin地址： BorCoin TRC10
+旧BorCoin地址： BorCoin ERC20  
+新波刃币BorCoin地址： BorCoin TRC10  
 旧币总量：5千万，持有者可向bor233@qq.com申请兑换新币
 新币总量：100亿（这是发行总量，最终总量可能为了其价值根据情况大数量销毁）
 新官网： borcoin.cn（暂不更新了，包括白皮书）
