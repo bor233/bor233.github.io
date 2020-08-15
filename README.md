@@ -1,4 +1,5 @@
 <img width="300" height="150" src="http://file.bor233.cn/%E5%BC%80%E5%8F%91%E8%80%85%E5%9B%BE.jpg">  
+
 旧BorCoin地址： BorCoin ERC20  
 新波刃币BorCoin地址： BorCoin TRC10  
 旧币总量：5千万，持有者可向bor233@qq.com申请兑换新币  
